@@ -12,3 +12,5 @@ sudo python3 setup.py install
 mkdir /tmp/hello
 python3 hello.py /tmp/hello
 ```
+
+Docker image you could create from: https://github.com/sarnobat/docker_images/blob/main/helloworld/Dockerfile
