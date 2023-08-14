@@ -2,7 +2,7 @@
 
 Worked on 2023-08-14
 
-```
+```sh
 # Only works on Linux unfortunately
 git clone git@github.com:libfuse/python-fuse.git
 
