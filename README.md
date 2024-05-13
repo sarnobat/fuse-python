@@ -3,7 +3,7 @@
 Worked on 2023-08-14
 
 ```sh
-# Only works on Linux unfortunately
+# Only works on Linux unfortunately, not Mac OS
 # TODO: create a simple docker image
 git clone git@github.com:libfuse/python-fuse.git
 
